@@ -1,0 +1,24 @@
+            body{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+
+
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;
+                padding: 5px;
+            }
+
+            th{
+                background-color: rgb(233, 233, 233);
+                text-align: center;
+            }
+
+            td{
+                text-align: center;
+            }
+
+            img{
+	            align-content: center;  
+                width: 30px;
+            }
