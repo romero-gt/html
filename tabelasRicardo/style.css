@@ -1,0 +1,8 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+img{
+    height: 25px;
+    width: 35px;
+}
